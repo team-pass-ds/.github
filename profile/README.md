@@ -10,4 +10,4 @@ Our competitions and projects
 
 |Competition|URL|Description|
 |:----------|:--|:----------|
-|**Spaceship Titanic**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic) [Github](https://github.com/team-pass-ds/Spaceship-Titanic)||
+|**Spaceship Titanic**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic), [Github](https://github.com/team-pass-ds/Spaceship-Titanic)||
