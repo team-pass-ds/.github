@@ -8,9 +8,9 @@ We're a Data Science team participating in competitions. The members of this tea
 
 Our competitions and projects
 
-|Competition|URL|Description|
-|:----------|:--|:----------|
-|**Spaceship Titanic**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic), [Github](https://github.com/team-pass-ds/Spaceship-Titanic)||
+|Competition|URL|Description|Last Submission|
+|:----------|:--|:----------|:--------------|
+|**Spaceship Titanic**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic), [Github](https://github.com/team-pass-ds/Spaceship-Titanic)|||
 
 ### What we work with: 
 ![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998) 
