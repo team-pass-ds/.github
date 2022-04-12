@@ -3,18 +3,17 @@ Hey, this is us <img src="https://user-images.githubusercontent.com/1303154/8867
 We're a Data Science team participating in competitions.
 |Member|Kaggle|Github|
 |:-----|:-----|:-----|
-|Pranesh Mukhopadhyay|[@praneshmukhopadhyay]([praneshmukhopadhyay](https://www.kaggle.com/praneshmukhopadhyay))|[@Mukhopadhyay](https://github.com/Mukhopadhyay)|
+|Pranesh Mukhopadhyay|[@praneshmukhopadhyay](https://www.kaggle.com/praneshmukhopadhyay)|[@Mukhopadhyay](https://github.com/Mukhopadhyay)|
 |Arunabha Chatterjee||[@arun9718](https://github.com/arun9718)|
-|Sirshendu Ganguly||[@Sirsho1997](https://github.com/Sirsho1997)|
-|Shiladitya Bose||[@s-bose](https://github.com/s-bose)|
+|Sirshendu Ganguly|[@sirsho](https://www.kaggle.com/sirsho)|[@Sirsho1997](https://github.com/Sirsho1997)|
+|Shiladitya Bose|[@shiladityabasu](https://www.kaggle.com/shiladityabasu)|[@s-bose](https://github.com/s-bose)|
+|Suchandra Dutta|[@suchandra1datta](https://www.kaggle.com/suchandra1datta)|[@SuchandraDatta](https://github.com/SuchandraDatta)|
 
 Our competitions and projects
 
 |Competition|URL|Last Submission|Description|
 |:----------|:--|:--------------|:----------|
 |**Spaceship Titanic**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic), [Github](https://github.com/team-pass-ds/Spaceship-Titanic)|||
-
-Datasets we created:
 
 ### What we work with: 
 ![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998) 
