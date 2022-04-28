@@ -11,9 +11,11 @@ We're a Data Science team participating in competitions.
 
 Our competitions and projects
 
-|Competition|URL|Last Submission|Description|
-|:----------|:--|:--------------|:----------|
-|**Spaceship Titanic**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic), [Github](https://github.com/team-pass-ds/Spaceship-Titanic)|||
+|Competition|Competition URL|Last Submission|Description|
+|:----------|:--------------|:--------------|:----------|
+|**[SpaceShip Titanic](https://github.com/team-pass-ds/Spaceship-Titanic)**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic)|||
+|**[HR Analytics](https://github.com/team-pass-ds/HR-Analytics-Challenge)**|[Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/)|||
+
 
 ### What we work with: 
 ![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998) 
