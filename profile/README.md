@@ -1,4 +1,4 @@
-Hey, this is us <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+Hey, this is us 👋
 
 We're a Data Science team participating in competitions.
 |Member|Kaggle|Github|
@@ -13,7 +13,7 @@ Our competitions and projects
 
 |Competition|Competition URL|Last Submission|Description|
 |:----------|:--------------|:--------------|:----------|
-|**[SpaceShip Titanic](https://github.com/team-pass-ds/Spaceship-Titanic)**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic)|||
+|**[SpaceShip Titanic](https://github.com/team-pass-ds/Spaceship-Titanic)**|[Kaggle](https://www.kaggle.com/c/spaceship-titanic)|`14-06-2022`||
 |**[HR Analytics](https://github.com/team-pass-ds/HR-Analytics-Challenge)**|[Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/)|||
 
 
